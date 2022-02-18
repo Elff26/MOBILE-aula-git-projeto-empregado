@@ -1,5 +1,6 @@
 import java.util.*;
 //a classe TesteEmpregado ficou assim
+//teste
 public class TesteEmpregado{
     public static void main (String [] args){
         Empregado e1 = new Empregado ();
